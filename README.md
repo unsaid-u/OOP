@@ -11,4 +11,7 @@ Here is a program in C++ , containing breif explaination and implementation of O
 I refered to this video for making this 
 https://www.youtube.com/watch?v=wN0x9eZLix4
 
+And this article from geeks for geeks
+https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
+
 Feel free to fork it, and add new implementations, explainations etc.
